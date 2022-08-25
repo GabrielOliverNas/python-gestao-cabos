@@ -26,7 +26,7 @@ try:
         # sql_insert_query = "insert into laptop (id, name, price) VALUES (1, 'Marcos', 2.0)"
         # cursor.execute(sql_insert_query)
         # connection.commit()
-        # print('Insert na base')
+        print('Insert na base')
 
         # Select byId a record
         # sql_select_Query = "select * from Laptop where name = 'Lenovo ThinkPad P71'"
